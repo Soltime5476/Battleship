@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "battleship"
+version = "0.1.0"
+description = "A text-based Battleship game"
+authors = ["Soltime5476 <whyareyoureadingthis9532@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
